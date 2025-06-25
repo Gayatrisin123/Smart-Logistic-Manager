@@ -63,7 +63,7 @@ You can visit the live site here - https://logisticsmanager.vercel.app/
 5. Now Simply use the Project using Docker Container
 
 ## Author ✍️
-- [@Ujjwal Saini](https://github.com/UjjwalSaini07)
+- [@GayatriSingh](https://github.com/Gayatrisin123)
 
 ## Screenshots 📷
 ![image](https://github.com/user-attachments/assets/0e18cdc9-9b5b-4fbf-837e-73b85bbe9e77)
