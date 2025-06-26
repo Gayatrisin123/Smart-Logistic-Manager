@@ -83,7 +83,7 @@ You can visit the live site here - (https://smart-logistic-manager.vercel.app/)
 Feel free to reach out if you have any questions or suggestions!
 
 - Raise an issue for the same [Issue](https://github.com/Gayatrisin123/Smart-Logistics-Manager/issues)
-- Github: [@Ujjwal Saini](https://github.com/UjjwalSaini07)
+- Github: [@GayatriSingh](https://github.com/Gayatrisin123)
 
 ## License 📄
 License Credential [Check](https://github.com/UjjwalSaini07/Smart-Logistics-Manager/blob/main/LICENSE). </br>You can use this project the way you want Make sure to fork before. Feel free to credit me if you want to!
