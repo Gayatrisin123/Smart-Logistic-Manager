@@ -13,7 +13,7 @@ Smart Logistics Manager is a professional MERN-stack web application crafted to 
 - **User-Friendly Admin Dashboard:** A sleek, intuitive interface for managing all logistics operations seamlessly.
 
 ## Demo 🖥️
-You can visit the live site here - https://logisticsmanager.vercel.app/
+You can visit the live site here - (https://smart-logistic-manager.vercel.app/)
 
 ## Technologies Used 👨🏻‍💻
 - **Typescript** – A strongly-typed superset of JavaScript that enhances the development of fast and scalable web applications.
