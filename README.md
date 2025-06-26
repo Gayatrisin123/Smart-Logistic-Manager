@@ -26,7 +26,7 @@ You can visit the live site here - (https://smart-logistic-manager.vercel.app/)
 - Star the [Repository](https://github.com/Gayatrisin123/Smart-Logistic-Manager)
 - Clone the repository:
 ```bash
-  git clone https://github.com/UjjwalSaini07/Smart-Logistics-Manager.git
+  git clone https://github.com/Gayatrisin123/Smart-Logistic-Manager.git
 ```
 - Install the necessary dependencies:
 ```bash
