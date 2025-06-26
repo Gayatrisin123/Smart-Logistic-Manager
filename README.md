@@ -89,7 +89,7 @@ Feel free to reach out if you have any questions or suggestions!
 License Credential [Check](https://github.com/Gayatrisin123/Smart-Logistic-Manager/blob/main/LICENSE). </br>You can use this project the way you want Make sure to fork before. Feel free to credit me if you want to!
 
 ## Feedback and Contributions 💌
-Sorry But this project not welcome Contributions! Yes u gave a Feedback and Suggestion via raising the [Issues](https://github.com/UjjwalSaini07/Smart-Logistics-Manager/issues).
+Sorry But this project not welcome Contributions! Yes u gave a Feedback and Suggestion via raising the [Issues](https://github.com/Gayatrisin123/Smart-Logistic-Manager/issues).
 
 <div align="center">
     <a href="#top">
