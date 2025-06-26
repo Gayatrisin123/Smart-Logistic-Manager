@@ -22,7 +22,7 @@ You can visit the live site here - (https://smart-logistic-manager.vercel.app/)
 - **ShadCN** – Used for beautifully designed, responsive components.
 
 ## Installation 🛠️
-- First Read this [License](https://github.com/UjjwalSaini07/Smart-Logistics-Manager/blob/main/LICENSE) & their terms then proceed.
+- First Read this [License]((https://github.com/Gayatrisin123/Smart-Logistic-Manager/blob/main/LICENSE)) & their terms then proceed.
 - Star the [Repository](https://github.com/UjjwalSaini07/Smart-Logistics-Manager)
 - Clone the repository:
 ```bash
