@@ -82,7 +82,7 @@ You can visit the live site here - (https://smart-logistic-manager.vercel.app/)
 ## Contact 📞
 Feel free to reach out if you have any questions or suggestions!
 
-- Raise an issue for the same [Issue](https://github.com/UjjwalSaini07/Smart-Logistics-Manager/issues)
+- Raise an issue for the same [Issue](https://github.com/Gayatrisin123/Smart-Logistics-Manager/issues)
 - Github: [@Ujjwal Saini](https://github.com/UjjwalSaini07)
 
 ## License 📄
