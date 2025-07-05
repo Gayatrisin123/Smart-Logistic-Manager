@@ -1,6 +1,6 @@
 # Smart-Logistics-Manager 📊
 
-Smart Logistics Manager is a professional MERN-stack web application crafted to enhance logistics operations. Equipped with a powerful admin dashboard, it offers advanced analytics, real-time driver tracking, route optimization, fleet management, predictive metrics, and delivery performance monitoring. This comprehensive solution ensures seamless, efficient, and data-driven management for achieving operational excellence and superior delivery outcomes. 🚀
+Smart Logistics Manager is a professional MERN-stack web application crafted to enhance logistics operations. Equipped with a powerful admin dashboard, it offers advanced analytics, real-time driver tracking, route optimization, fleet management, predictive metrics, and delivery performance monitoring. This comprehensive solution ensures seamless, efficient, and data-driven management for achieving operational excellence and superior delivery outcomes.🚀
 
 
 ## Features 🚀
