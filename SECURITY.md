@@ -29,8 +29,7 @@ If you discover a security vulnerability, please follow these guidelines:
 
 You can report vulnerabilities by:
 
-- Opening a confidential issue on GitHub: [🚨 Raise Issue](https://github.com/UjjwalSaini07/Smart-Logistics-Manager/issues)  
-- Or contacting us directly at:  `ujjwalsaini0007+Logistics@gmail.com`
+- Opening a confidential issue on GitHub: [🚨 Raise Issue](https://github.com/Gayatrisin123/Smart-Logistics-Manager/issues)  
 
 ## ⚡ Response Process
 
